@@ -1,0 +1,16 @@
+/* Hide navigation and images in print */
+nav,
+img {
+  display: none;
+}
+
+/* Stack sections vertically */
+section {
+  display: block;
+  margin-bottom: 20px;
+}
+
+/* Simplify layout */
+body {
+  font-family: serif;
+}
